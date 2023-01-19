@@ -11,7 +11,7 @@ get_header();
 ?>
 
 	<main id="primary" class="site-main">
-        hello eddie
+        <div class="testing bg-warning">Hello Mr Jeff</div>
        <img src="images/sample.png" alt="">
 		<?php
 		while ( have_posts() ) :
